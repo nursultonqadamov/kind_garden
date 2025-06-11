@@ -6,21 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c1a05e1-cfa6-4079-a6ce-8b1b23a67781" name="Changes" comment="kind_garden">
       <changelist_data name="qadamovn" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/KIND_GARDEN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/children/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/children/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kind_gardenapp/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kind_gardenapp/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meals/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meals/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meals/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meals/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meals/views_htmx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +113,7 @@
       <workItem from="1749489917961" duration="5943000" />
       <workItem from="1749502786220" duration="1462000" />
       <workItem from="1749640908537" duration="593000" />
-      <workItem from="1749656449028" duration="772000" />
+      <workItem from="1749656449028" duration="1507000" />
     </task>
     <servers />
   </component>
