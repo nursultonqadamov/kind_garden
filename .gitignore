@@ -1,14 +1,2 @@
-# Python
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-*.sqlite3
-*.log
-*.env
-.env
-
-# Node.js / Next.js
 node_modules/
-.next/
-out/
+node_modules/
