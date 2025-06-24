@@ -6,6 +6,60 @@
   <component name="ChangeListManager">
     <list default="true" id="5c1a05e1-cfa6-4079-a6ce-8b1b23a67781" name="Changes" comment="kind_garden">
       <changelist_data name="qadamovn" email="" automatic="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/children/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/children/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/children/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/children/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/children/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/children/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/children/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/children/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/children/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/children/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/admin_dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/chef_dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/frontendapp/children_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/frontendapp/cook_dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/frontendapp/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/frontendapp/partials/product_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/frontendapp/partials/report_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/meals/meal_request_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/templates/reports/daily_report_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_garden/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_garden/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_garden/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_garden/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_garden/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_garden/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_gardenapp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_gardenapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_gardenapp/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_gardenapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_gardenapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kind_gardenapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/kind_gardenapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/services.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/signals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/permissions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,12 +83,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nursultonqadamov&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/nursultonqadamov/kind_garden.git",
+    "url": "https://github.com/nursultonqadamov/kind_garden2.git",
     "accountId": "1187f63e-0e45-4d50-ab0e-d1e441cb6842"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -43,32 +106,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "main",
-    "htmx.bundled.context.provider.enabled": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;htmx.bundled.context.provider.enabled&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qadamovnursulton/PycharmProjects/kind_garden/kind_garden&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kind_garden" />
+      <recent name="$PROJECT_DIR$/users" />
+      <recent name="$PROJECT_DIR$/products" />
+      <recent name="$PROJECT_DIR$/meals" />
+      <recent name="$PROJECT_DIR$/kind_gardenapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/kind_gardenapp" />
+      <recent name="$PROJECT_DIR$/frontendapp/templates/frontendapp" />
+      <recent name="$PROJECT_DIR$/frontendapp/templates" />
       <recent name="$PROJECT_DIR$/frontendapp/templates/meals" />
     </key>
   </component>
@@ -101,7 +177,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
         <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
@@ -118,7 +193,7 @@
       <workItem from="1749489917961" duration="5943000" />
       <workItem from="1749502786220" duration="1462000" />
       <workItem from="1749640908537" duration="593000" />
-      <workItem from="1749656449028" duration="1835000" />
+      <workItem from="1749656449028" duration="3676000" />
     </task>
     <servers />
   </component>
