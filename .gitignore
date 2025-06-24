@@ -1,1 +1,9 @@
 node_modules/
+.env
+*.log
+
+__pycache__/
+*.sqlite3
+
+echo "node_modules/" >> .gitignore
+
